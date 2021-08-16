@@ -7,6 +7,7 @@ namespace _1.TwoSum
     {
         static void Main(string[] args)
         {
+            //change the values as you wish
             int[] nums = new int[] { 3, 2, 3 };            
             int target = 6;
 
@@ -22,6 +23,7 @@ namespace _1.TwoSum
 
             for (int i = 0; i < nums.Length; i++)
             {
+                //to avoid wasting time when is the first iteration
                 if (i == 0)
                 {
                     hashNumbers.Add(0, nums[0]);
