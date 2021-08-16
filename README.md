@@ -2,7 +2,7 @@
 
 My solution for a problem in LeetCode called TwoSum, original link: 
 
-https://leetcode.com/problems/two-sum/
+<a href="https://leetcode.com/problems/two-sum/" target="_blank">Here</a>
 
 Problem: Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 
