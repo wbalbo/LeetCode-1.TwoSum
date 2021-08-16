@@ -15,4 +15,6 @@ You can return the answer in any order.</b>
 Certainly has better and performatic ways to improve this code (using 2 for loops for example or using a HashMap) but I want to document my solutions
 to see my improvements in this platform and to improve my algorithms skills.
 
-This is a problem part of Top Interview Questions lists, from Leetcode.
+This is part of Top Interview Questions curated list, from Leetcode:
+
+https://leetcode.com/explore/interview/card/top-interview-questions-easy/
