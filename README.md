@@ -13,6 +13,6 @@ You may assume that each input would have exactly one solution, and you may not 
 You can return the answer in any order.</b>
 
 Certainly has better and performatic ways to improve this code (using 2 for loops for example or using a HashMap) but I want to document my solutions
-to see my improvements in this platform and in my algorithm's learning.
+to see my improvements in this platform and to improve my algorithms skills.
 
 This is a problem part of Top Interview Questions lists, from Leetcode.
