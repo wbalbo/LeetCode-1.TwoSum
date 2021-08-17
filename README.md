@@ -1,4 +1,4 @@
-# LeetCode-1.TwoSum - Difficulty: Easy
+# LeetCode-1.TwoSum
 
 My solution for a problem in LeetCode called TwoSum, original link: 
 
