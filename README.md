@@ -15,6 +15,17 @@ You can return the answer in any order.</b>
 Certainly has better and performatic ways to improve this code (using 2 for loops for example or using a HashMap) but I want to document my solutions
 to see my improvements in this platform and to improve my algorithms skills.
 
+<b>
+My Results:
+
+54 / 54 test cases passed.
+Status: Accepted
+Runtime: 1752 ms
+Memory Usage: 36.8 MB
+</b>
+
+Pretty bad I think, took almost 2 seconds to run, but for a first time it's okay.
+
 This is part of Top Interview Questions curated list, from Leetcode:
 
 https://leetcode.com/explore/interview/card/top-interview-questions-easy/
