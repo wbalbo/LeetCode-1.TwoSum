@@ -2,7 +2,7 @@
 
 My solution for a problem in LeetCode called TwoSum, original link: 
 
-<a href="https://leetcode.com/problems/two-sum/" target="_blank">Here</a>
+https://leetcode.com/problems/two-sum/
 
 Problem:
 
